@@ -106,7 +106,7 @@ body {
   text-align: center;
 }
 
-#right-section {
+#images {
   display: flex;
   display: flex;
   flex-direction: row;
@@ -168,7 +168,6 @@ a:hover {
     flex-direction: column;
     text-align: center;
     padding: 31px;
-
   }
 
   #left-section h1 {
